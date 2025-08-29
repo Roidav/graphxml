@@ -1,0 +1,16 @@
+<graph type="line" title="Temperature by Days">
+    <x-axis label="Days"/>
+    <y-axis label="Temperature (°C)"/>
+    
+    <dataset name="City A" color="blue">
+        <point x="Mon" y="20"/>
+        <point x="Tue" y="22"/>
+        <point x="Wed" y="19"/>
+    </dataset>
+
+    <dataset name="City B" color="red">
+        <point x="Mon" y="18"/>
+        <point x="Tue" y="21"/>
+        <point x="Wed" y="17"/>
+    </dataset>
+</graph>
